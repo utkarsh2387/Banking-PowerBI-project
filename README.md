@@ -54,7 +54,7 @@ To use this project, you will need:
 
 # 📈 Sample Visuals
 ###  Dashboard Overview
-![IPL Dashboard](.assets/Dashboard Page1.jpg)
+![ Dashboard]_(.assets/Dashboard Page1.jpg)
 
 ## Usage Guide
 
