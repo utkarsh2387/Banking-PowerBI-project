@@ -53,8 +53,8 @@ To use this project, you will need:
   
 
 # 📈 Sample Visuals
-###  Dashboard Overview
-![ Dashboard](assets/Dashboard Page1.jpg)
+### 🏏 IPL Dashboard Overview
+![IPL Dashboard](assets/Dashboard Page1.jpg)
 
 ## Usage Guide
 
