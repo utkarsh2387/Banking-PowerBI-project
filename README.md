@@ -50,6 +50,11 @@ To use this project, you will need:
 4.  **Refresh the Data:**
 
     *   Click on the "Refresh" button in the Power BI Desktop ribbon to load the data into the reports.
+  
+
+# 📈 Sample Visuals
+###  Dashboard Overview
+![Dashboard](.assets/Dashboard Page1.jpg)(.assets/Dashboard Page2.jpg)
 
 ## Usage Guide
 
