@@ -54,7 +54,7 @@ To use this project, you will need:
 
 # 📈 Sample Visuals
 ###  Dashboard Overview
-![Dashboard](.assets/Dashboard Page1.jpg)(.assets/Dashboard Page2.jpg)
+![Dashboard](.assets/Dashboard Page1.jpg)
 
 ## Usage Guide
 
